@@ -2,19 +2,12 @@
 
 *ANY* TA for this class can help you with any problems.  So you can go to anybody's office hours if they fit in your schedule better than mine.  Office hours are:
 
-### Dhruv
-* Friday 11AM - Noon
-* Thursday 11AM - 2PM
+* Tuesday, 11-12
+* Tuesday, 4-5
+* Thursday, 10-12
+* Friday, 11-12
 
-### Rae
-* Friday 11AM - Noon
-* Thursday 11AM - 2PM
-
-### Ben
-* Friday 11AM - 1PM
-
-### Sean
-* Friday 11AM - Noon    
+All TAs from this course can answer your questions, so feel free to attend any of the office hours that fit your schedule
 
 ---
 
