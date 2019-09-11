@@ -38,4 +38,6 @@ Let's download the lab materials. It's fine if you don't understand exactly what
     - If you can't seem to paste anything, try using Ctrl+Shift+V (or Command+Shift+V)
 6. You should see a new folder named `week-3` inside your class folder
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pitt-sci-cmpinf0010/week-3/master?urlpath=lab)
+
 Go ahead and start reading through the lecture notebook!
