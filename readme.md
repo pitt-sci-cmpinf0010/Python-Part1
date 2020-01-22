@@ -7,7 +7,7 @@
 * Thursday, 10-12
 * Friday, 11-12
 
-All TAs from this course can answer your questions, so feel free to attend any of the office hours that fit your schedule
+All TAs from this course can answer your questions, so feel free to attend any of the office hours that fit your schedule.
 
 ---
 
@@ -26,18 +26,9 @@ If you want to dive a little deeper into the topics you'll be learning about, re
 
 ## Getting Started™
 
-Let's download the lab materials. It's fine if you don't understand exactly what's going on here; you will learn about the terminal and git soon!
-
-1. In JupyterLab, open a Launcher and select `Terminal`
-4. Type in `cd CMPINF0010`
-    - Or, if you named your class folder something different, replace `CMPINF0010` with whatever you named your folder
-5. Now, copy and paste this command into the terminal
-    ```
-    git clone https://github.com/pitt-sci-cmpinf0010/week-3.git
-    ```
-    - If you can't seem to paste anything, try using Ctrl+Shift+V (or Command+Shift+V)
-6. You should see a new folder named `week-3` inside your class folder
+1. In Canvas (canvas.pitt.edu), click on this class, CMPINF0010
+2. Go to Modules
+5. Click `Skills Lab Week 3` and click where is says `Click Here!`
+6. JupyterHub should open up to this week's materials!
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pitt-sci-cmpinf0010/week-3/master?urlpath=lab)
-
-Go ahead and start reading through the lecture notebook!
