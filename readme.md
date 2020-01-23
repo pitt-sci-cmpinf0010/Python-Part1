@@ -2,10 +2,9 @@
 
 *ANY* TA for this class can help you with any problems.  So you can go to anybody's office hours if they fit in your schedule better than mine.  Office hours are:
 
-* Tuesday, 11-12
+* Monday, 2-4 
 * Tuesday, 4-5
-* Thursday, 10-12
-* Friday, 11-12
+* Thursday, 4-5
 
 All TAs from this course can answer your questions, so feel free to attend any of the office hours that fit your schedule.
 
