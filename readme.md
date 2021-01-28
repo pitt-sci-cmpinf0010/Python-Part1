@@ -19,9 +19,10 @@ If you want to dive a little deeper into the topics you'll be learning about, re
 
 ## Getting Started™
 
-1. In Canvas (canvas.pitt.edu), click on this class, CMPINF0010
-2. Go to Modules
-5. Click `Skills Lab Week 3` and click where is says `Click Here!`
-6. JupyterHub should open up to this week's materials!
+1. Open Jupyter Lab and start a terminal
+2. Navigate to the folder you wish to download this lab
+3. Type in `git clone https://github.com/pitt-sci-cmpinf0010/lab-2.git` and hit the enter key
+4. This should download a folder to your local machine with the lab (it should be called `lab-2`
+5. Launch the desired notebook
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pitt-sci-cmpinf0010/week-3/master?urlpath=lab)
