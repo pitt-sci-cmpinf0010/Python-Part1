@@ -25,4 +25,4 @@ If you want to dive a little deeper into the topics you'll be learning about, re
 4. This should download a folder to your local machine with the lab (it should be called `lab-2`)
 5. Launch the desired notebook
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pitt-sci-cmpinf0010/week-3/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pitt-sci-cmpinf0010/lab-2/master?urlpath=lab)
