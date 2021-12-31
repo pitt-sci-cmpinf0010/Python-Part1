@@ -1,6 +1,6 @@
-# Info
+# Readme
 
-*ANY* TA for this class can help you with any problems, so you can go to any of the office hours.
+If you have questions about this week's lab ANY TA for this class can help you with any problems.
 
 ---
 
