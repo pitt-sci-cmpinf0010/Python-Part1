@@ -25,7 +25,11 @@ If you want to dive a little deeper into the topics you'll be learning about, re
 4. Double click the new folder in the file explorer. You should see the lab contents.
 5. Launch the `Lab-Exercises.ipynb` notebook. You can also launch `Lab-Lesson.ipynb` if you need a refresher on what the UTA went over in the skills lab.
 
-Click here to access the lab via Binder if Jupyter Hub doesn't work:
+### If JupyterHub doesn't work for you
+
+Use Binder!
+
+_**Important**:_ Binder does **not** always save your work. If you need to stop working on your lab for more than 30 minutes, you need to **download** your exercises notebook to you computer. Then, you can reupload it again later to continue your work.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pitt-sci-cmpinf0010/Python-Part1/HEAD)
 
