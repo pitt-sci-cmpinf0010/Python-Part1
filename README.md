@@ -22,7 +22,8 @@ If you want to dive a little deeper into the topics you'll be learning about, re
 1. Log into SCI JupyterHub and start a terminal
 2. Type in `git clone https://github.com/pitt-sci-cmpinf0010/Python-Part1.git` and hit the enter key
 3. This should download a folder to your JupyterHub with the lab (it should be called `Python-Part1`)
-4. Launch the Lab Lesson and the Lab-Exercises.ipynb notebook. You can also launch Lab-Lesson.ipynb if you need a refresher.
+4. Double click the new folder in the file explorer. You should see the lab contents.
+5. Launch the `Lab-Exercises.ipynb` notebook. You can also launch `Lab-Lesson.ipynb` if you need a refresher on what the UTA went over in the skills lab.
 
 Click here to access the lab via Binder if Jupyter Hub doesn't work:
 
