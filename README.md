@@ -35,7 +35,7 @@ _**Important**:_ Binder does **not** always save your work. If you need to stop 
 
 ## Completing the Lab
 
-You can modify `Lab-Exercises.ipynb`. Add your own cells, but don't delete the original problems - this helps us match up your answers to each exercise and check that you did all of the work.
+You can modify `Lab-Exercises.ipynb`. Add your own cells, but don't delete the original problems - this helps us match up your answers to each exercise and check that you did all of the work. Don't forget to rename your lab -> `<pitt username>-Lab-Exercises.ipynb` where the <pitt username> is your username. For example, if my username is abc123, I would rename the lab to `abc123-Lab-Exercises.ipynb`.
 
 ## Submitting your lab
 
